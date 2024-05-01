@@ -11,6 +11,8 @@ Identifying factors predicting user adoption, defined as logging in on three sep
 1. **Creation Sources Impact**: 
    - Users predominantly sign up via organizational invites, suggesting professional networks significantly influence adoption.
    - Sign-up method influences adoption rates, with distinct patterns observed for different sources.
+  
+   - ![Creation Sources](Images/Distribution_of_creation_sources.png)
 
 2. **User Engagement Analysis**:
    - Only 13.35% of users classified as 'adopted', indicating substantial room for improvement in engagement strategies.
